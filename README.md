@@ -1,4 +1,4 @@
-# Hi there, I'm Manoj 👋
+# Hi there, I'm Manoj Hansaka 👋
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=smmuser96&show_icons=true&theme=radical" width="47%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smmuser96&layout=compact" width="47%" />
